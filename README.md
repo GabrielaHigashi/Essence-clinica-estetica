@@ -14,7 +14,7 @@ e agendamento de clientes.
 
 ## 🖥️ Preview do projeto
 
-![Homepage](images/homepage.png)
+![Homepage](img/homepage_essence.png)
 
 ### Página de procedimentos
 

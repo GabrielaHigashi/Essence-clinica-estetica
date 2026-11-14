@@ -18,7 +18,7 @@ e agendamento de clientes.
 
 ### Página de procedimentos
 
-![Procedimentos](images/procedimentos.png)
+![Procedimentos](img/procedimentos_essence.png)
 
 
 ## 🎯 Processo de criação
